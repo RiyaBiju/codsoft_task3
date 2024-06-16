@@ -1,0 +1,47 @@
+
+ 
+ .container {
+    width: 430px;
+    height: 500px;
+    background-color: rgb(84, 104, 101);
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  #screen {
+    background-color: rgb(178, 212, 228);
+    height: 80px;
+    width: 400px;
+    margin: 5px;
+    font-size: 4rem;
+    text-align: right;
+    border-radius: 10px;
+  }
+  p{
+    color: aliceblue;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    }
+  .button {
+    background-color: #ddd;
+    color: black;
+   width: 4.7rem;
+    
+    border-radius: 5px;
+    font-size: 3.5rem;
+    
+    margin: 10px;
+    border-radius: 17px;
+ }
+ 
+  .clear{
+    background-color: red;
+ 
+  }
+  .operator{
+    background-color: rgb(112, 112, 150);
+  }
+  .button:hover{
+    border: 5px solid yellowgreen;
+  }
